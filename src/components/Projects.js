@@ -12,9 +12,7 @@ export default function Projects() {
           My Work Experience
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Strong background in Computer Science and over 2 years of professional experience, I specialize in creating compelling front-end solutions. I've contributed to projects involving user interface design and implementation using technologies like JavaScript, HTML, CSS, React.js, and Bootstrap. Additionally, I've played a key role in ensuring software quality through comprehensive unit testing with tools like Jest and React Testing Library, alongside effective debugging and issue resolution. Proficient in JavaScript, React.js, HTML5, and CSS.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
